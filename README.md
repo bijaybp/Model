@@ -1,2 +1,2 @@
 # Model
-AIM/Enduse model of Thailand
+Static CGE model of Thailand
