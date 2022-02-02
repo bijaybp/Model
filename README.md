@@ -4,12 +4,12 @@ $Title Static model Thailand
 
 $Ontext
 Sample CGE for mpsge
-32 goods, 4 energy, 2 final demand and 2 factors model
+30 goods, 5 energy, 2 final demand and 2 factors model
 $offtext
 
 set
 sec      sector and goods        /001*031/
-i(sec)   goods                   /001*031/
+i(sec)   goods                   /001*032/
 en(i)    energy goods            /005,006,012,019,020/
 ne(i)    non-energy goods        /001*004,007*011,013*018,021*031/
 j(sec)   sector                  /001*031/
