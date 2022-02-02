@@ -4,7 +4,7 @@ $Title Static model Thailand
 
 $Ontext
 Sample CGE for mpsge
-31 goods, 5 energy, 2 final demand and 2 factors model
+32 goods, 4 energy, 2 final demand and 2 factors model
 $offtext
 
 set
